@@ -1,0 +1,5 @@
+C:\Users\Utente\Desktop\Send\Send\obj\Debug\net7.0\AMQP.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\Send\Send\obj\Debug\net7.0\AMQP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Send\Send\obj\Debug\net7.0\AMQP.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Send\Send\obj\Debug\net7.0\AMQP.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Send\Send\obj\Debug\net7.0\AMQP.csproj.CoreCompileInputs.cache
