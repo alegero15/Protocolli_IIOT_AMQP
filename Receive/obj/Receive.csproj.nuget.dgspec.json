@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\Desktop\\Send\\Receive\\Receive.csproj": {}
+    "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\Protocolli_IIOT_AMQP\\Receive\\Receive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\Desktop\\Send\\Receive\\Receive.csproj": {
+    "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\Protocolli_IIOT_AMQP\\Receive\\Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Send\\Receive\\Receive.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\Protocolli_IIOT_AMQP\\Receive\\Receive.csproj",
         "projectName": "Receive",
-        "projectPath": "C:\\Users\\Utente\\Desktop\\Send\\Receive\\Receive.csproj",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\Protocolli_IIOT_AMQP\\Receive\\Receive.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\Desktop\\Send\\Receive\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\IIOT\\Protocolli IIOT\\Protocolli_IIOT_AMQP\\Receive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
